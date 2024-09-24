@@ -1,0 +1,12 @@
+[
+    {
+        "name": "PayPal",
+        "message": "PayPal is not available for registration.",
+        "timestamp": "2024-09-19 11:19:41"
+    },
+    {
+        "name": "112Hub",
+        "message": "Congratulations, 112Hub is available for registration!",
+        "timestamp": "2024-09-19 11:19:51"
+    }
+]
